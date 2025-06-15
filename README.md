@@ -13,3 +13,4 @@ docs: add usage examples at 2025-02-05T10:31:29 +0000
 docs: clarify prerequisites at 2025-02-27T07:03:58 +0000
 docs: add installation steps at 2025-03-30T04:27:15 +0000
 docs: add FAQ entry at 2025-01-23T02:32:49 +0000
+docs: fix typos and formatting at 2025-06-15T05:50:45 +0000
