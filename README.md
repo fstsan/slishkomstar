@@ -16,3 +16,4 @@ docs: add FAQ entry at 2025-01-23T02:32:49 +0000
 docs: fix typos and formatting at 2025-06-15T05:50:45 +0000
 docs: add troubleshooting notes at 2025-02-09T23:25:09 +0000
 docs: update badges and links at 2025-03-17T20:31:30 +0000
+docs: add contribution guide at 2025-06-25T17:39:15 +0000
